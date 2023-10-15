@@ -1,2 +1,2 @@
-# Fruit-Squeeze
-my first 
+# Squeeze Game
+Developed using Three.js and Javascript  
